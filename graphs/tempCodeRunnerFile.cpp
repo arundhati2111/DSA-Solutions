@@ -1,0 +1,10 @@
+ // Graph<int> g;
+    // // g.addEdge(0,1,5,1);
+    // // g.addEdge(1,2,10,1);
+    // // g.addEdge(1,3,20,1);
+    // // g.addEdge(2,3,50,1);
+    // g.addEdge(0,1,5,0);
+    // g.addEdge(1,2,10,0);
+    // g.addEdge(1,3,20,0);
+    // g.addEdge(2,3,50,0);
+    // g.printAdjList();
